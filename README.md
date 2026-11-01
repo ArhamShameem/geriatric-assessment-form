@@ -154,6 +154,6 @@ All required test cases and boundary conditions are covered:
 
 ## 🌐 Deployment
 
-The application is bundled into a production build with `yarn build`.
+The application is deployed on Vercel:
 
-- **Deployment URL**: To be added following continuous deployment setup (e.g. Vercel, Netlify, or Cloudflare Pages).
+- **Live Production URL**: [https://geriatric-assessment-form-phi.vercel.app](https://geriatric-assessment-form-phi.vercel.app)
