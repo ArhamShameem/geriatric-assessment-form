@@ -24,10 +24,14 @@
   },
   "dependencies": {
     "@mantine/core": "9.7.4",
+    "@mantine/dates": "9.7.4",
+    "@mantine/form": "9.7.4",
     "@mantine/hooks": "9.7.4",
+    "dayjs": "^1.11.23",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.4"
+    "react-router-dom": "^7.9.4",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@storybook/addon-themes": "^10.0.0",
